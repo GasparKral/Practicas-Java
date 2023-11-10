@@ -2,6 +2,19 @@ import java.util.Scanner;
 
 public class Moocfi_9 {
 
+    /*
+     * NB! The example output might align wrong on narrow displays. If you're using
+     * only a limited portion of the browser window, or your display is otherwise
+     * very narrow, try to stretch the display horizontally to see if the text
+     * aligns differently. The exercise expects the text to align as it does on
+     * wider displays.
+     * 
+     * Write a program that asks the user for a character's name and their job. The
+     * program then prints a short story.
+     * 
+     * The output must be as shown below — note, the name and job depend on the
+     * user's input.
+     */
     public static void main(String[] args) {
 
         Scanner imput = new Scanner(System.in);

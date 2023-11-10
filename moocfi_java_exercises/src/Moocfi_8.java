@@ -2,6 +2,17 @@ import java.util.Scanner;
 
 public class Moocfi_8 {
 
+    /*
+     * Write a program that works as follows:
+     * 
+     * Sample output
+     * Greetings! How are you doing?
+     * Good thank you!
+     * Oh, how interesting. Tell me more!
+     * Well, there's really nothing to tell.
+     * Thanks for sharing!
+     */
+
     public static void main(String[] args) {
 
         Scanner imput = new Scanner(System.in);
